@@ -12,7 +12,7 @@ The sum is: 28
 It's factorial is: 5040
 ```
 
-Input: 3
+Input: 4
 ```
 The natural numbers up to 4th term is: 
 1 2 3 4
